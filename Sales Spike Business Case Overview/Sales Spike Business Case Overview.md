@@ -68,3 +68,31 @@ Aku menatap layar dengan kening berkerut. “Oh... ternyata penyebab spike seban
 
 
 “Tentu aja ada,” jawab Senja cepat. “Setiap lonjakan pasti ada dua sisi. Bisa positif, bisa juga negatif. Sini aku kasih tahu.”
+
+### Dampak Spike Terhadap Bisnis
+
+### Dampak Positif:
+- Omzet meningkat drastis
+- Perputaran stok cepat
+- Menarik pelanggan baru via promosi
+
+#### Dampak Negatif:
+- Kehabisan stok (stock out) 
+- Logistik dan distribusi terhambat 
+- Risiko overstock pasca-spike 
+- Keluhan pelanggan meningkat
+ 
+
+Baiklah, bisa dibilang aku sudah cukup paham tentang pola-pola dan dampak spike. Aku jadi penasaran kalau spike ini beneran terjadi dalam kasus industri. Seperti apa ya kalau dalam visualisasinya? 
+
+
+Lagi-lagi, seperti bisa membaca pikiranku, Senja menyahut. "Sekarang aku tunjukkan gimana cara kita mengenali spike lewat visualisasi. Dan karena kamu juga sudah terbiasa memvisualisasikan di Python, sekarang kita langsung praktik ya, dan kamu coba ikuti sesuai instruksi."
+
+### Melihat Spike Pada Kasus Sederhana
+Kalau kerja bareng Senja memang kayak gini, habis teori kudu langsung praktik! "Let's go, Senja."
+
+```
+#memanggil library
+import matplotlib.pyplot as plt
+import pandas as pd
+```
